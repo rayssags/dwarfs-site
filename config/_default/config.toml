@@ -2,6 +2,6 @@
 #baseURL = "https://rayssags.github.io/dwarfs/"
 title = "DWARFS OV/UFRJ"
 description = "Grupo de galáxias anãs do OV/UFRJ"
-baseURL = "http://localhost"
+#baseURL = "http://localhost"
 copyright = ""
 sidebar_image = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Small_Magellanic_Cloud_%28Digitized_Sky_Survey_2%29.jpg/800px-Small_Magellanic_Cloud_%28Digitized_Sky_Survey_2%29.jpg"
