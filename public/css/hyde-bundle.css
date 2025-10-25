@@ -579,7 +579,8 @@ a.sidebar-nav-item:focus {
   .sidebar-sticky {
     position: absolute;
     right:  1rem;
-    bottom: 1rem;
+    top:    3rem;
+    /*bottom: 1rem; change from bottom to top*/
     left:   1rem;
   }
 }
@@ -718,3 +719,17 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+.sidebar-image {
+  text-align: center;           /* center the container */
+  margin-bottom: 1rem;          /* optional spacing below image */
+}
+
+.sidebar-image img {
+  width: 250px;                 /* desired size */
+  height: 250px;
+  border-radius: 50%;           /* makes it a perfect circle */
+  object-fit: cover;            /* maintain aspect ratio & crop if needed */
+  display: inline-block;        /* ensures centering inside text-align: center */
+  border: 1px solid #ccc;       /* optional border around the circle */
+}
+
