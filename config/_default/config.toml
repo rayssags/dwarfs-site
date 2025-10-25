@@ -1,5 +1,6 @@
-[params]
 baseURL = "https://rayssags.github.io/dwarfs-site/"
+
+[params]
 title = "DWARFS OV/UFRJ"
 description = "Grupo de galáxias anãs do OV/UFRJ"
 #baseURL = "http://localhost"
