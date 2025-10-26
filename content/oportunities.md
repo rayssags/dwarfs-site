@@ -1,7 +1,7 @@
 ---
-title: "Oportunities and contact"
+title: "Opportunities and contact"
 menu: 
     main:
-        name: "Oportunities"
+        name: "Opportunities"
         weight: 3
 ---
