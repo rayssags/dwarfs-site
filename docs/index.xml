@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DWARFS Research Group on DWARFS OV/UFRJ</title>
-    <link>http://localhost:1313/dwarfs-site/</link>
+    <link>https://rayssags.github.io/dwarfs-site/</link>
     <description>Recent content in DWARFS Research Group on DWARFS OV/UFRJ</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/dwarfs-site/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rayssags.github.io/dwarfs-site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Oportunities and contact</title>
-      <link>http://localhost:1313/dwarfs-site/oportunities/</link>
+      <link>https://rayssags.github.io/dwarfs-site/oportunities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/dwarfs-site/oportunities/</guid>
+      <guid>https://rayssags.github.io/dwarfs-site/oportunities/</guid>
       <description></description>
     </item>
     <item>
       <title>Publications</title>
-      <link>http://localhost:1313/dwarfs-site/publications/</link>
+      <link>https://rayssags.github.io/dwarfs-site/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/dwarfs-site/publications/</guid>
+      <guid>https://rayssags.github.io/dwarfs-site/publications/</guid>
       <description></description>
     </item>
     <item>
       <title>Research</title>
-      <link>http://localhost:1313/dwarfs-site/research/</link>
+      <link>https://rayssags.github.io/dwarfs-site/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/dwarfs-site/research/</guid>
+      <guid>https://rayssags.github.io/dwarfs-site/research/</guid>
       <description></description>
     </item>
   </channel>

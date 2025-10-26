@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/dwarfs-site/categories/</loc>
+    <loc>https://rayssags.github.io/dwarfs-site/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/dwarfs-site/</loc>
+    <loc>https://rayssags.github.io/dwarfs-site/</loc>
   </url><url>
-    <loc>http://localhost:1313/dwarfs-site/oportunities/</loc>
+    <loc>https://rayssags.github.io/dwarfs-site/oportunities/</loc>
   </url><url>
-    <loc>http://localhost:1313/dwarfs-site/publications/</loc>
+    <loc>https://rayssags.github.io/dwarfs-site/publications/</loc>
   </url><url>
-    <loc>http://localhost:1313/dwarfs-site/research/</loc>
+    <loc>https://rayssags.github.io/dwarfs-site/research/</loc>
   </url><url>
-    <loc>http://localhost:1313/dwarfs-site/tags/</loc>
+    <loc>https://rayssags.github.io/dwarfs-site/tags/</loc>
   </url>
 </urlset>
