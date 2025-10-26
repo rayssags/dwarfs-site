@@ -1,0 +1,14 @@
+<div class="profile-card">
+  <img src="{{ .Get "image" }}" alt="{{ .Get "name" }}" class="profile-photo" />
+  <div class="profile-info">
+    <h3>{{ .Get "name" }}</h3>
+    <h4>{{ .Get "position" }}</h4>
+    <p>{{ .Get "description" }}</p>
+    <p class="profile-links">
+      {{ with .Get "cv" }}<a href="{{ . }}" target="_blank">CV</a>{{ end }}
+      {{ with .Get "lattes" }}<a href="{{ . }}" target="_blank">Lattes</a>{{ end }}
+      {{ with .Get "orcid" }}<a href="{{ . }}" target="_blank">ORCID</a>{{ end }}
+      {{ with .Get "website" }}<a href="{{ . }}" target="_blank">Personal site</a>{{ end }}
+    </p>
+  </div>
+</div>

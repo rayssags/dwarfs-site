@@ -1,7 +1,13 @@
 baseURL = "https://rayssags.github.io/dwarfs-site/"
+Title = "DWARFS OV/UFRJ"
 
 [params]
-title = "DWARFS OV/UFRJ"
-description = "Grupo de galáxias anãs do OV/UFRJ"
+themeColor = "ufrj"
+description = "The Dwarf Galaxies Group at the Valongo Observatory, Federal University of Rio de Janeiro."
 copyright = ""
 sidebar_image = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Small_Magellanic_Cloud_%28Digitized_Sky_Survey_2%29.jpg/800px-Small_Magellanic_Cloud_%28Digitized_Sky_Survey_2%29.jpg"
+
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
